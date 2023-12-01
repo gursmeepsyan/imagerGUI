@@ -1,6 +1,7 @@
 import PySimpleGUI as sg
 import os.path
 
+sg.theme('dark grey 9') # dark grey theme
 
 # LAYOUT , WILL BE 2 COLMNS USING VSEPARATOR() AND BROWSABLE AND DISPLAYABLE CONTENT
 file_list_column = [
